@@ -1,0 +1,6 @@
+@POLL.API_HostAddress = http://localhost:5221
+
+GET {{POLL.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
